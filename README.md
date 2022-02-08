@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10&height=220&section=header&text=crestlux&fontSize=70)
 ## 👋 About Me  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrestlux%2Fhit-counter&count_bg=%23E777D9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- Student of Sungkyunkwan University, Majoring Computer Science and Engineering since 2021
+- Student of Sungkyunkwan University since 2021
+- Majoring Computer Science and Engineering
 
 ## :bulb: Current Interests
 - Problem solving, Competitive Programming
