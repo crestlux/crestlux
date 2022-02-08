@@ -23,10 +23,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## 📃 BOJ / Solved.ac
-- BOJ: [hemi0213](https://www.acmicpc.net/user/hemi0213)
-- Solved.ac: [hemi0213](https://solved.ac/profile/hemi0213)
+## 📃 Problem Solving / Competitive Programming
+- BOJ: [hemi0213](https://www.acmicpc.net/user/hemi0213) / Solved.ac: [hemi0213](https://solved.ac/profile/hemi0213)
+- Codeforces: [hemi0213](https://codeforces.com/profile/hemi0213)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hemi0213)](https://solved.ac/hemi0213)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hemi0213&theme=warm)
