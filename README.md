@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crestlux&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crestlux&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crestlux&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
