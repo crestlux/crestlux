@@ -23,7 +23,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-💬 Languages : Korean, English, Japanese
+#### 💬 Languages : Korean, English, Japanese
 ***
 ## 📃 Problem Solving / Competitive Programming
 - BOJ: [hemi0213](https://www.acmicpc.net/user/hemi0213) / Solved.ac: [hemi0213](https://solved.ac/profile/hemi0213)
