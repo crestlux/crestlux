@@ -3,13 +3,13 @@
 
 - Student of Sungkyunkwan University since 2021
 - Majoring Computer Science and Engineering
-
-## :bulb: Current Interests
+***
+## 💡 Current Interests
 - Problem solving, Competitive Programming
 - AI, Machine Learning
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crestlux&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+***
 ## 💻 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crestlux&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +23,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+💬 Languages : Korean, English, Japanese
+***
 ## 📃 Problem Solving / Competitive Programming
 - BOJ: [hemi0213](https://www.acmicpc.net/user/hemi0213) / Solved.ac: [hemi0213](https://solved.ac/profile/hemi0213)
 - Codeforces: [hemi0213](https://codeforces.com/profile/hemi0213)
