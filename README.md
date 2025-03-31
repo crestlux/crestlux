@@ -32,8 +32,7 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hemi0213)](https://solved.ac/hemi0213)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hemi0213&theme=warm)
-
-[![AtCoder](https://badges.riever.dev/atcoder/crestlux.svg)](https://atcoder.jp/users/crestlux)
+[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=crestlux)](https://atcoder.jp/users/crestlux)
 <!--
 ### Hi there 👋
 **crestlux/crestlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
