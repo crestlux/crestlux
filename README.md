@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10&height=220&section=header&text=crestlux&fontSize=70)
-## 👋 About Me  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrestlux%2Fhit-counter&count_bg=%23E777D9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 About Me 
 
 - Student of Sungkyunkwan University since 2021
 - Majoring Computer Science and Engineering
@@ -7,7 +7,7 @@
 ***
 ## 💡 Current Interests
 - Problem solving, Competitive Programming
-- AI, Machine Learning
+- AI, Machine Learning, Reinforcement Learning
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crestlux&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ***
