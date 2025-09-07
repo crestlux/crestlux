@@ -3,7 +3,6 @@
 
 - Student of Sungkyunkwan University since 2021
 - Majoring Computer Science and Engineering
-- People call me Lux for short, so whether Crestlux or Lux is fine!
 ***
 ## 💡 Current Interests
 - Problem solving, Competitive Programming
