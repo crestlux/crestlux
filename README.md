@@ -5,7 +5,7 @@ I am a Computer Science and Engineering student at Sungkyunkwan University, inte
 
 - B.S. in Computer Science and Engineering, Sungkyunkwan University, 2021 - 2026
 - M.S. Student in Artificial Intelligence, Sungkyunkwan University, 2026 -
-- Interested in Reinforcement Learning, Offline RL, Robotics, Physical AI, and AI Agents
+- Interested in Reinforcement Learning, Robotics, Physical AI
 - Enjoy Competitive Programming and mathematical problem solving
 - Languages: Korean, English, Japanese
 
