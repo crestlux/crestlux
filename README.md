@@ -1,18 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10&height=220&section=header&text=crestlux&fontSize=70)
 ## 👋 About Me 
 
-- Student of Sungkyunkwan University since 2021
-- Majoring Computer Science and Engineering
-***
-## 💡 Current Interests
-- Problem solving, Competitive Programming
-- AI, Machine Learning, Reinforcement Learning
+I am a Computer Science and Engineering student at Sungkyunkwan University, interested in artificial intelligence, reinforcement learning, robotics, and algorithmic problem solving.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crestlux&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- B.S. in Computer Science and Engineering, Sungkyunkwan University, 2021 - 2026
+- M.S. Student in Artificial Intelligence, Sungkyunkwan University, 2026 -
+- Interested in Reinforcement Learning, Offline RL, Robotics, Physical AI, and AI Agents
+- Enjoy Competitive Programming and mathematical problem solving
+- Languages: Korean, English, Japanese
+
 ***
 ## 💻 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crestlux&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square)
